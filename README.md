@@ -26,7 +26,7 @@ This is a simple personal portfolio webpage for **Jimmy Gonzalez**, an aspiring 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/jgonza25/your-repo-name.git
+   git clone https://github.com/jgonza25/LinkTree.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -36,11 +36,11 @@ This is a simple personal portfolio webpage for **Jimmy Gonzalez**, an aspiring 
 
 ## 🌍 Live Demo
 
-[View the Portfolio](https://your-live-demo-link.com)
+[View the Portfolio](https://jgonza25.github.io/LinkTree/)
 
 ## 📬 Contact
 
-- 📧 Email: your-email@example.com
+- 📧 Email: jimmy.gonzalez1@outlook.com
 - 🐙 GitHub: [github.com/jgonza25](https://github.com/jgonza25)
 - 💼 LinkedIn: [linkedin.com/in/jimmygonzalez25](https://linkedin.com/in/jimmygonzalez25)
 
